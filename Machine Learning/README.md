@@ -22,8 +22,3 @@
 | 机器学习 | [7.聚类(Clustering)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/7.%20Clustering) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [8.ML特征工程和优化方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/8.%20ML特征工程和优化方法) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 机器学习 | [9.K近邻算法(KNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/9.%20KNN) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-
-
-
-> 欢迎大家加入！共同完善此项目！NLP学习QQ2群【207576902】<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=1defd70810d9e67ca6ab3a30e1425a8a358139315a186dd2192d82a4c0ca1ce9"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP学习群②" title="NLP学习群②"></a>
-
